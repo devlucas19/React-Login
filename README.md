@@ -1,6 +1,6 @@
 # React-Login
 
-Esta é uma aplicação web utilizando como base Node e ReactJS, para front e back-end, respectivamente.
+Esta é uma aplicação web utilizando como base Node e ReactJS para front e back-end, e MongoDB como banco de dados.
 
 No back-end foi feita a preparação das rotas para as requisições de Login e Cadastro, além de conexão com o banco de dados para lidar com os dados.
 
